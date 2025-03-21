@@ -1,0 +1,20 @@
+{
+  "schedules": [
+    {
+      "time": "06:00",
+      "scene": "opstaan"
+    },
+    {
+      "time": "21:00",
+      "scene": "bedtijd"
+    },
+    {
+      "time": "11:14",
+      "scene": "pauze"
+    },
+    {
+      "time": "15:15",
+      "scene": "pauze"
+    }
+  ]
+}
